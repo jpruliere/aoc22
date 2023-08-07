@@ -1,0 +1,5 @@
+B Z -- paper -> scissors 3 + 6 = 9
+A X -- rock -> scissors 3 + 0 = 12
+C X -- scissors -> paper 2 + 0 = 14
+C X -- scissors -> paper 2 + 0 = 16
+C Z -- scissors -> rock 1 + 6 = 23
